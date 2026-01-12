@@ -7,3 +7,12 @@
 body {
     width: 512px;
 }
+
+header {
+    margin:1rem 0;
+    padding: 1rem;
+    border-bottom: 2px solid black;
+    
+
+}
+
